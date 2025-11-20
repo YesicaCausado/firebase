@@ -1,2 +1,0 @@
-# firebase
-app con firebase
