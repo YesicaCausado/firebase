@@ -1,0 +1,9 @@
+{
+  "appId": "com.yesica.paises",
+  "appName": "Países América",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https",
+    "cleartext": true
+  }
+}
